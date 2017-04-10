@@ -1,6 +1,7 @@
 # Example Usage:
 
-```package org.cerudite.testing;
+```java
+package org.cerudite.testing;
 
 import org.cerudite.intrinio.IEXRealtime;
 import org.cerudite.intrinio.IEXRealtime.TextMessageHandler;
@@ -47,4 +48,5 @@ public class IntrinioTesting
     }
   }
 
-}```
+}
+```
